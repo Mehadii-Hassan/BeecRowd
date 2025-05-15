@@ -6,11 +6,12 @@ This repository contains my solutions to **100+ Easy-level problems** from [Beec
 
 ## 📌 About
 
-- 👨‍💻 Platform: [Beecrowd](https://www.beecrowd.com.br/)
-- 🐍 Language: Python 3
-- 🔢 Number of problems solved: **100**
-- 🎯 Focus: Easy-level problem solving (basics, conditionals, loops, arrays, etc.)
-- 📅 Status: **Completed Phase** – I’m now continuing with [HackerRank](https://www.hackerrank.com/) problems.
+- Platform: [Beecrowd](https://www.beecrowd.com.br/)
+- 
+- Language: Python 3
+- Number of problems solved: **100**
+- Focus: Easy-level problem solving (basics, conditionals, loops, arrays, etc.)
+- Status: **Completed Phase** – I’m now continuing with [HackerRank](https://www.hackerrank.com/) problems.
 
 ---
 
