@@ -12,7 +12,7 @@
 <p>
 This repository contains my personal solutions to various <strong>BeecRowd</strong> problems.  
 The aim is to strengthen <strong>problem-solving skills</strong>, practice <strong>Data Structures</strong> and <strong>Algorithms</strong>,  
-and prepare for <strong>coding interviews</strong>.
+and prepare for <strong>coding interviews </strong>.
 </p>
 
 <ul>
